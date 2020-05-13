@@ -1,4 +1,4 @@
 print("podaj zdanie zeby wyliczyc spacje")
 zdanie = input()
-x = zdanie.count("")
+x = zdanie.count(" ")
 print(x)
